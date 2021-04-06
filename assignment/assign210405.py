@@ -8,7 +8,9 @@ print(a.find('k'))
 
 b= "hello wolrd"
 print(b.count('l'))
+
 # 2장 연습문제
+
 # 1번
 
 len=80
