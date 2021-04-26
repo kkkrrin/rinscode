@@ -145,3 +145,12 @@ print(result)
 
 result = [num*3 for num in a if num%2==0]
 print(result)
+
+#[표현식 for 항목 in 반복가능 객체 If 조건문]
+
+# for문 2개 이상 사용하기
+# 구구단
+result =[x*y for x in range(2,10)
+        for y in range(1,10)]
+print(result)
+
